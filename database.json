@@ -2,8 +2,33 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "KARTUN",
-  "total": 0,
-  "data": [],
-  "lastSync": "2026-05-09T22:47:03.442Z",
-  "note": "Genre ini masih kosong, isi di Google Sheet"
+  "total": 4,
+  "data": [
+    {
+      "NAMAE": "cFxXFHJQTUwSckJRVFdK",
+      "COVER": "WkFEREIDFhpGXUVZU0oLG1tYV1ZeQRdWXVgfVQYWXQQdRX5GYGNBYQNqRBpBV14=",
+      "SINOPSIS": "WkFEREIDFhpGXUVZU0oLG1tYV1ZeQRdWXVgfBwIWCQAdel15RghoXQZqRBpBV14=",
+      "LINK": "AwEHBAQJCwAABwMGCAA="
+    },
+    {
+      "NAMAE": "VlRcXVAZWFtWFURcVBlLUFYVUlteUg==",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfUgQWDlEdfl9jfH9xV1lqXxpBV14=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfVgUWW1EdenROcgpcDHxqXxpBV14=",
+      "LINK": "AwEHBAUNCQADDQcGAQo="
+    },
+    {
+      "NAMAE": "VlpeU1RXXhVBVF5TEVJYW1FcXA==",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfUVQWAAEdA0ZFZkF/REdqXxpBV14=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfVggWDFMdW3NtcF1YYVFqXxpBV14=",
+      "LINK": "AwEFAAMACw0BAQkMAw4="
+    },
+    {
+      "NAMAE": "YUFRWlUZW0wSeFUUdVZLVFdYX1oRCw==",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfUFMWXQwdQ1FjeQ4Kcl9qXxpBV14=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfUQIWWg0deURaBndvegJqXxpBV14=",
+      "LINK": "AwEFBQYMDwULBgcECAg="
+    }
+  ],
+  "lastSync": "2026-05-09T23:47:48.170Z",
+  "note": ""
 }
