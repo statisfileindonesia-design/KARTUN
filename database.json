@@ -2,7 +2,7 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "KARTUN",
-  "total": 5,
+  "total": 6,
   "data": [
     {
       "NAMAE": "cFxXFHJQTUwSckJRVFdK",
@@ -33,8 +33,14 @@
       "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfUAcWDlEdbAViAl9adldqXxpBV14=",
       "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfDQIWCFcdQUFfBgsLDF5qXxpBV14=",
       "LINK": "AwEHAAcBDwcKBAUMBgw="
+    },
+    {
+      "NAMAE": "fFpSXUVYHkYSdEJAEW5WR15REGBQVVxG",
+      "COVER": "WkFEREIDFhpGXUVZU0oLG1tYV1ZeQRdWXVgfAAcWWgcdX1lhRmlARQNqRBpBV14=",
+      "SINOPSIS": "WkFEREIDFhpGXUVZU0oLG1tYV1ZeQRdWXVgfUgIWWg0dT1JuaQ9zBEZqRBpBV14=",
+      "LINK": "AwEIBAkACgUGAAQFBQ4="
     }
   ],
-  "lastSync": "2026-05-11T17:26:05.275Z",
+  "lastSync": "2026-05-14T17:16:35.375Z",
   "note": ""
 }
