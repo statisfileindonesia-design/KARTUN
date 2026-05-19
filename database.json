@@ -2,12 +2,12 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "KARTUN",
-  "total": 6,
+  "total": 7,
   "data": [
     {
       "NAMAE": "cFxXFHJQTUwSckJRVFdK",
       "COVER": "WkFEREIDFhpGXUVZU0oLG1tYV1ZeQRdWXVgfVQYWXQQdRX5GYGNBYQNqRBpBV14=",
-      "SINOPSIS": "WkFEREIDFhpGXUVZU0oLG1tYV1ZeQRdWXVgfBwIWCQAdel15RghoXQZqRBpBV14=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBwIWCQAdel15RghoXQZqXxpBV14=",
       "LINK": "AwEHBAQJCwAABwMGCAA="
     },
     {
@@ -37,10 +37,16 @@
     {
       "NAMAE": "fFpSXUVYHkYSdEJAEW5WR15REGBQVVxG",
       "COVER": "WkFEREIDFhpGXUVZU0oLG1tYV1ZeQRdWXVgfAAcWWgcdX1lhRmlARQNqRBpBV14=",
-      "SINOPSIS": "WkFEREIDFhpGXUVZU0oLG1tYV1ZeQRdWXVgfUgIWWg0dT1JuaQ9zBEZqRBpBV14=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfUgIWWg0dT1JuaQ9zBEZqXxpBV14=",
       "LINK": "AwEIBAkACgUGAAQFBQ4="
+    },
+    {
+      "NAMAE": "Z0VZWhEfGXxCXF4UelxLXEEVQ11QVFhbVRVEQV9eXlRe",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBgYWXAUdbFYFXXhbAGFqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfDAMWCwwdYgJbe0FMQ39qXxpbSV4=",
+      "LINK": "AwEIDQMADwYCAgICBQo="
     }
   ],
-  "lastSync": "2026-05-14T19:14:42.085Z",
+  "lastSync": "2026-05-19T17:25:40.713Z",
   "note": ""
 }
